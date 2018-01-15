@@ -1,0 +1,1 @@
+/opt/Qt/Tools/QtCreator/lib/Qt/plugins/designer
